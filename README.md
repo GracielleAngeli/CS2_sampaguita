@@ -40,6 +40,6 @@ The distance between the two points is: 7.07
 
 ## Author
 
-Name: Juan Dela Cruz
+Name: Gracielle Angeli Sindingan 
 
 Section: 8-Sampaguita
